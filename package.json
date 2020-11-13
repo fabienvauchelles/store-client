@@ -1,0 +1,17 @@
+{
+    "name": "store-client",
+    "version": "1.0.0",
+    "description": "Storage client which get http content",
+    "author": {
+        "name": "Fabien Vauchelles",
+        "url": "http://fabien.vauchelles.com"
+    },
+    "license": "Apache-2.0",
+    "main": "index.js",
+    "dependencies": {
+        "bluebird": "^3.7.2",
+        "lodash": "^4.17.20",
+        "request": "^2.88.2",
+        "winston": "~2.4.1"
+    }
+}
